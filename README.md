@@ -1,4 +1,4 @@
-# Version Shared Discrepency Example
+# Version Shared Discrepancy Example
 
 This example demos a difference in behavior in federated apps when a host application does not consume an exported module from a remote and instead only configures shared modules.
 
